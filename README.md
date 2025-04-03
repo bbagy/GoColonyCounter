@@ -58,6 +58,14 @@ GoColonyCounter -i input_images -o output_results
 - `colony_counts.csv` — summary table of colony counts per image  
 - `result_*.png` — annotated result images with colony markers and counts
 
+
+## Example Output
+
+Here is a sample result image showing automatically detected colonies:
+
+![Result Example](example_images/result_IMG_0483.png)
+
+
 ## Notes
 
 - Works on macOS (recommended); Linux also supported
