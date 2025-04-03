@@ -63,7 +63,7 @@ GoColonyCounter -i input_images -o output_results
 
 Here is a sample result image showing automatically detected colonies:
 
-![Result Example](example_images/result_IMG_0483.png)
+![Result Example](example_images/result_IMG_04830.png)
 
 
 ## Notes
